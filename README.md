@@ -1,12 +1,12 @@
 # Jarkom-Modul-4-B13-2023
 
 - Robby Ulung Pambudi (5025211042)
-- Tsaqif Deniar
+- Tsaqif Deniar Bhakti (5025211151)
 
 ## Problem
 
 - Problem CIDR dengan CPT - Robby
-- Problem VLSM dengan GNS3
+- Problem VLSM dengan GNS3 - Tsaqif
 
 ## Problem CIDR dengan CPT
 
@@ -153,3 +153,31 @@
 ### CIDR Routing Check
 
 https://github.com/robbypambudi/Jarkom-Modul-4-B13-2023/assets/34505233/16740793-6335-48c4-b406-5c98101e6823
+
+### VLSM
+VLSM adalah metode pengalamatan IP yang memungkinkan pengguna untuk menggunakan subnet mask dengan panjang yang berbeda-beda untuk mengoptimalkan penggunaan alamat IP.
+
+### Pembagian IP
+
+### Konfigurasi Network
+Setelah membagi IP pada masing masing node setelah itu kita konfigurasi ip nya
+
+ROUTER
+- Pilihlah Router yang akan dikonfigurasi kemudian klik pada router tersebut.
+- Klik config dan akan diberikan beberapa pilihan via dari fastethernet0/0 hingga fastethernet1/1 dan lakukan pembagian ip
+- Memasukan IPv4Address dan Subnet Mask berdasarkan pembagian subnetting masing masing dan lakukan pada setiap router yang ada
+
+CLIENT atau SERVER
+- Pilih Client/Server yang akan dikonfigurasi kemudian klik pada Client/Server tersebut.
+- pilih dekstop untuk mencari pilihan ip configuration
+- pilih ipconfiguration, setelah itu isi IPv4Address dan Subnet Mask
+- Setelah itu konfigurasi berdasarkan pembagian ip yang telah ada diatas
+- ulangi langkah yang sama pada setiap Client/Server yang ada
+
+ROUTING
+Routing statis adalah metode routing yang mengharuskan administrator jaringan untuk menambahkan rute baru secara manual ke tabel routing ketika terdapat subnet tambahan. Konsepnya sederhana, yaitu mendaftarkan NID dan netmask dari subnet, serta gateway untuk menuju subnet tersebut.
+
+- Pilih Route yang akan di routing
+- Pada menu Config terdapat pilihan Routing,  klik Static untuk menambahkan route pada Router yang terdiri dari Network, Mask, dan Next Hop
+- Isi satu persatu route lalu Add hingga seluruh route dari router tersebut telah ditambah
+- lakukan pada setiap router.
