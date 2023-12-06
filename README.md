@@ -171,6 +171,8 @@ ROUTER
 - Klik config dan akan diberikan beberapa pilihan via dari fastethernet0/0 hingga fastethernet1/1 dan lakukan pembagian ip
 - Memasukan IPv4Address dan Subnet Mask berdasarkan pembagian subnetting masing masing dan lakukan pada setiap router yang ada
 
+![pembagian](asset/R1.png)
+
 CLIENT atau SERVER
 - Pilih Client/Server yang akan dikonfigurasi kemudian klik pada Client/Server tersebut.
 - pilih dekstop untuk mencari pilihan ip configuration
@@ -184,4 +186,10 @@ Routing statis adalah metode routing yang mengharuskan administrator jaringan un
 - Pilih Route yang akan di routing
 - Pada menu Config terdapat pilihan Routing,  klik Static untuk menambahkan route pada Router yang terdiri dari Network, Mask, dan Next Hop
 - Isi satu persatu route lalu Add hingga seluruh route dari router tersebut telah ditambah
-- lakukan pada setiap router.
+
+Kiri
+![pembagian](asset/R1.png)
+
+Begitu juga dengan bagian Kanan dan bawahnya
+
+- Lalu lakukan pada setiap router.
