@@ -160,6 +160,7 @@ VLSM adalah metode pengalamatan IP yang memungkinkan pengguna untuk menggunakan 
 ![SubnetAwal](asset/1.png)
 
 ### Pembagian IP
+![SubnetAwal](asset/data_1.png)
 
 ### Konfigurasi Network
 Setelah membagi IP pada masing masing node setelah itu kita konfigurasi ip nya
