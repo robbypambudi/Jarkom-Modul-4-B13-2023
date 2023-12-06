@@ -188,7 +188,7 @@ Routing statis adalah metode routing yang mengharuskan administrator jaringan un
 - Isi satu persatu route lalu Add hingga seluruh route dari router tersebut telah ditambah
 
 Kiri
-![pembagian](asset/R1.png)
+![pembagian](asset/R2.png)
 
 Begitu juga dengan bagian Kanan dan bawahnya
 
