@@ -157,6 +157,8 @@ https://github.com/robbypambudi/Jarkom-Modul-4-B13-2023/assets/34505233/16740793
 ### VLSM
 VLSM adalah metode pengalamatan IP yang memungkinkan pengguna untuk menggunakan subnet mask dengan panjang yang berbeda-beda untuk mengoptimalkan penggunaan alamat IP.
 
+![SubnetAwal](asset/1.png)
+
 ### Pembagian IP
 
 ### Konfigurasi Network
