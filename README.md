@@ -1,12 +1,12 @@
 # Jarkom-Modul-4-B13-2023
 
 - Robby Ulung Pambudi (5025211042)
-- Tsaqif Deniar
+- Tsaqif Deniar Bhakti (5025211151)
 
 ## Problem
 
 - Problem CIDR dengan CPT - Robby
-- Problem VLSM dengan GNS3
+- Problem VLSM dengan GNS3 - Tsaqif
 
 ## Problem CIDR dengan CPT
 
